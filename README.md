@@ -39,10 +39,10 @@ Mostra previsão de resultados encontrados
 Mostra unidades ao buscar
 
 ## Regras de negócio
-Filtrar unidades abertas ou fechadas
-Filtrar unidades por período de funcionamento
-Caso não encontre unidades, mostrar uma menssagem ao usuário "Nenhuma unidade encontrada"
-Validar para mostrar ícones corretos de acordo com o status
+Filtra unidades abertas ou fechadas
+Filtra unidades por período de funcionamento
+Caso não encontre unidades, mostrar uma mensagem ao usuário "Nenhuma unidade encontrada"
+Valida para mostrar ícones corretos de acordo com o status
 
 ## Componentes Macro
 Formulário de busca com filtros
